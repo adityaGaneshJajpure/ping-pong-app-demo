@@ -16,7 +16,7 @@ This [terraform.tfvars](./terraform.tfvars)  file contains environment-specific 
 | `bucket_name`            | GCS bucket name (e.g., for storing Terraform state) | `sample-terraform-state-bucket` |
 | `node_pools`             | Configuration for GKE nodepools                     | `production_pool`               |
 
-## �� GKE Node Pool Configuration
+## GKE Node Pool Configuration
 
 The following variables define the configuration of a GKE (Google Kubernetes Engine) node pool used in the cluster.
 
